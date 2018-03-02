@@ -1,0 +1,30 @@
+.topPadding {
+  padding-top: 17px;
+}
+
+.bordered {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.ui.topmenu.menu {
+  margin: 13px 0px 0px 0px;
+  border-radius: 0px;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.stayStoked.menu {
+  border-radius: 0px;
+  box-shadow: none;
+  border: none;
+  background-color: #00004d;
+  font-style: italic;
+  padding: 0px;
+  margin: 0px 0px 0px 95px;
+}
+
+.italics {
+  text-align: center;
+  font-style: italic;
+}
